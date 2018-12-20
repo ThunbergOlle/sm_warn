@@ -14,4 +14,5 @@ or
 [All files (Recommended)](https://github.com/ThunbergOlle/sm_warn/archive/master.zip)
 
 [warn.smx](https://raw.githubusercontent.com/ThunbergOlle/sm_warn/master/csgo/addons/sourcemod/plugins/warn.smx)
+
 [warn.sp](https://raw.githubusercontent.com/ThunbergOlle/sm_warn/master/csgo/addons/sourcemod/scripting/warn.sp)
